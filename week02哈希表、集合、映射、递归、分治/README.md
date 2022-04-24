@@ -1,9 +1,9 @@
 # week02 哈希表、集合、映射、递归、分治
 
-| 序号 | 题目            | Leetcode                                                     | 难度 | 分类       | 代码                               |
-| ---- | --------------- | ------------------------------------------------------------ | ---- | ---------- | ---------------------------------- |
-| 1    | 合并K个升序链表 | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 | 递归，分治 | [code](./23. 合并K个升序链表.java) |
-| 2    | 全排列II        | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 | 递归       | [code](./47.全排列II.java)         |
-| 3    | 数组的度        | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | 哈希       | [code](./697. 数组的度.java)       |
-| 4    | 子域名访问计数  | [811. 子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | 中等 | 哈希       | [code](./811. 子域名访问计数.java) |
+| 序号 | 题目            | Leetcode                                                     | 难度 | 分类       | 代码                                                         |
+| ---- | --------------- | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------ |
+| 1    | 合并K个升序链表 | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 | 递归，分治 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week02%E5%93%88%E5%B8%8C%E8%A1%A8%E3%80%81%E9%9B%86%E5%90%88%E3%80%81%E6%98%A0%E5%B0%84%E3%80%81%E9%80%92%E5%BD%92%E3%80%81%E5%88%86%E6%B2%BB/23.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.java) |
+| 2    | 全排列II        | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 | 递归       | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week02%E5%93%88%E5%B8%8C%E8%A1%A8%E3%80%81%E9%9B%86%E5%90%88%E3%80%81%E6%98%A0%E5%B0%84%E3%80%81%E9%80%92%E5%BD%92%E3%80%81%E5%88%86%E6%B2%BB/47.%E5%85%A8%E6%8E%92%E5%88%97II.java) |
+| 3    | 数组的度        | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | 哈希       | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week02%E5%93%88%E5%B8%8C%E8%A1%A8%E3%80%81%E9%9B%86%E5%90%88%E3%80%81%E6%98%A0%E5%B0%84%E3%80%81%E9%80%92%E5%BD%92%E3%80%81%E5%88%86%E6%B2%BB/697.%20%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6.java) |
+| 4    | 子域名访问计数  | [811. 子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | 中等 | 哈希       | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week02%E5%93%88%E5%B8%8C%E8%A1%A8%E3%80%81%E9%9B%86%E5%90%88%E3%80%81%E6%98%A0%E5%B0%84%E3%80%81%E9%80%92%E5%BD%92%E3%80%81%E5%88%86%E6%B2%BB/811.%20%E5%AD%90%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E8%AE%A1%E6%95%B0.java) |
 
