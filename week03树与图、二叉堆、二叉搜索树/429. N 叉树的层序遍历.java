@@ -43,3 +43,30 @@ class Solution {
         return result;
     }
 }
+
+class Solution2 {
+    public List<List<Integer>> levelOrder(Node root) {
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
+        Deque<Node> que = new LinkedList<Node>();
+        if(root == null){
+            return result;
+        }
+        que.offerLast(root);
+        while(!que.isEmpty()){
+            // 保存当前层的大小，确保新增的List只放当前层的节点
+            int size = que.size();
+            List<Integer> tmpLayer = new ArrayList<Integer>();
+            for (int i = 0; i < size; i++){
+                Node tmpNode = que.pollFirst();
+                tmpLayer.add(tmpNode.val);
+                if(!tmpNode.children.isEmpty()){
+                    for(Node childrenNode : tmpNode.children){
+                        que.offerLast(childrenNode);
+                    }
+                }
+            }
+            result.add(tmpLayer);
+        }
+        return result;
+    }
+}
