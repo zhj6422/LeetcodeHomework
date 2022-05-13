@@ -8,7 +8,7 @@
 | 4    | [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 中等 | 排序 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.java) |
 | 5    | [493. 翻转对](https://leetcode.cn/problems/reverse-pairs/)   | 困难 | 排序 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/493.%20%E7%BF%BB%E8%BD%AC%E5%AF%B9.java) |
 | 6    | [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | DFS  | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/17.%20%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.java) |
-| 7    | [51. N 皇后](https://leetcode.cn/problems/n-queens/)         | 困难 | DFS  |                                                              |
+| 7    | [51. N 皇后](https://leetcode.cn/problems/n-queens/)         | 困难 | DFS  | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/51.%20N%20%E7%9A%87%E5%90%8E.java) |
 | 8    |                                                              |      |      |                                                              |
 | 9    |                                                              |      |      |                                                              |
 | 10   |                                                              |      |      |                                                              |
