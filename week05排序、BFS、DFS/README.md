@@ -10,6 +10,5 @@
 | 6    | [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | DFS         | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/17.%20%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.java) |
 | 7    | [51. N 皇后](https://leetcode.cn/problems/n-queens/)         | 困难 | DFS         | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/51.%20N%20%E7%9A%87%E5%90%8E.java) |
 | 8    | [327. 区间和的个数](https://leetcode.cn/problems/count-of-range-sum/) | 困难 | 前缀和+排序 |                                                              |
-| 9    |                                                              |      |             |                                                              |
-| 10   |                                                              |      |             |                                                              |
+| 9    | [130. 被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | 中等 | DFS         |                                                              |
 
