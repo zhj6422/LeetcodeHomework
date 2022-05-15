@@ -11,4 +11,5 @@
 | 7    | [51. N 皇后](https://leetcode.cn/problems/n-queens/)         | 困难 | DFS         | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/51.%20N%20%E7%9A%87%E5%90%8E.java) |
 | 8    | [327. 区间和的个数](https://leetcode.cn/problems/count-of-range-sum/) | 困难 | 前缀和+排序 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/327.%20%E5%8C%BA%E9%97%B4%E5%92%8C%E7%9A%84%E4%B8%AA%E6%95%B0.java) |
 | 9    | [130. 被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | 中等 | DFS         | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week05%E6%8E%92%E5%BA%8F%E3%80%81BFS%E3%80%81DFS/130.%20%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F.java) |
+| 10   | [200. 岛屿数量](https://leetcode.cn/problems/number-of-islands/) | 中等 | BFS         |                                                              |
 
