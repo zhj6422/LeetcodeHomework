@@ -8,7 +8,7 @@
 | 4    | [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/) | 中等 | 贪心 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week06/45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.java) |
 | 5    | [1665. 完成所有任务的最少初始能量](https://leetcode.cn/problems/minimum-initial-energy-to-finish-tasks/) | 困难 | 贪心 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week06/1665.%20%E5%AE%8C%E6%88%90%E6%89%80%E6%9C%89%E4%BB%BB%E5%8A%A1%E7%9A%84%E6%9C%80%E5%B0%91%E5%88%9D%E5%A7%8B%E8%83%BD%E9%87%8F.java) |
 | 6    | [322. 零钱兑换](https://leetcode.cn/problems/coin-change/)   | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week06%E8%B4%AA%E5%BF%83%E3%80%81%E5%8A%A8%E8%A7%84/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.java) |
-| 7    | [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | 中等 | 动规 |                                                              |
+| 7    | [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week06%E8%B4%AA%E5%BF%83%E3%80%81%E5%8A%A8%E8%A7%84/1143.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.java) |
 |      |                                                              |      |      |                                                              |
 |      |                                                              |      |      |                                                              |
 |      |                                                              |      |      |                                                              |
