@@ -10,6 +10,6 @@
 | 6    | [322. 零钱兑换](https://leetcode.cn/problems/coin-change/)   | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week06%E8%B4%AA%E5%BF%83%E3%80%81%E5%8A%A8%E8%A7%84/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.java) |
 | 7    | [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week06%E8%B4%AA%E5%BF%83%E3%80%81%E5%8A%A8%E8%A7%84/1143.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.java) |
 | 8    | [300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week06%E8%B4%AA%E5%BF%83%E3%80%81%E5%8A%A8%E8%A7%84/300.%20%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java) |
-|      |                                                              |      |      |                                                              |
+| 9    | [152. 乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | 中等 | 动规 |                                                              |
 |      |                                                              |      |      |                                                              |
 
