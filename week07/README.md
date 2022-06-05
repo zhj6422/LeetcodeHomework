@@ -9,8 +9,8 @@
 | 5    | [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)（一次买卖） | 简单 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.java) |
 | 6    | [123. 买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/)（最多两次买卖） | 困难 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/123.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20III.java) |
 | 7    | [714. 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/714.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%E5%90%AB%E6%89%8B%E7%BB%AD%E8%B4%B9.java) |
-| 8    | [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/) | 中等 | 动规 |                                                              |
-| 9    | [198. 打家劫舍](https://leetcode.cn/problems/house-robber/)  | 中等 | 动规 |                                                              |
-| 10   | [213. 打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/)（房子围成一圈） | 中等 | 动规 |                                                              |
-| 11   | [416. 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | 中等 | 动规 |                                                              |
-| 12   | [1499. 满足不等式的最大值](https://leetcode.cn/problems/max-value-of-equation/) | 困难 | 动规 |                                                              |
+| 8    | [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/) | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.java) |
+| 9    | [198. 打家劫舍](https://leetcode.cn/problems/house-robber/)  | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.java) |
+| 10   | [213. 打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/)（房子围成一圈） | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/213.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.java) |
+| 11   | [416. 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | 中等 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.java) |
+| 12   | [1499. 满足不等式的最大值](https://leetcode.cn/problems/max-value-of-equation/) | 困难 | 动规 | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week07/1499.%20%E6%BB%A1%E8%B6%B3%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.java) |
