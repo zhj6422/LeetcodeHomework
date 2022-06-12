@@ -8,9 +8,6 @@
 | 4    | [1334. 阈值距离内邻居最少的城市](https://leetcode.cn/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | 中等 | 图，Floyd算法                  | [Floyd](https://github.com/zhj6422/LeetcodeHomework/blob/main/week08/1334.%20%E9%98%88%E5%80%BC%E8%B7%9D%E7%A6%BB%E5%86%85%E9%82%BB%E5%B1%85%E6%9C%80%E5%B0%91%E7%9A%84%E5%9F%8E%E5%B8%82.java) |
 | 5    | [1584. 连接所有点的最小费用](https://leetcode.cn/problems/min-cost-to-connect-all-points/) | 中等 | 图，Kruskal算法                | [Kruskal](https://github.com/zhj6422/LeetcodeHomework/blob/main/week08/1584.%20%E8%BF%9E%E6%8E%A5%E6%89%80%E6%9C%89%E7%82%B9%E7%9A%84%E6%9C%80%E5%B0%8F%E8%B4%B9%E7%94%A8.java) |
 | 6    | [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 中等 | 字典树                         | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week08/208.%20%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).java) |
-| 7    |                                                              |      |                                |                                                              |
-| 8    |                                                              |      |                                |                                                              |
-| 9    |                                                              |      |                                |                                                              |
-| 10   |                                                              |      |                                |                                                              |
-| 11   |                                                              |      |                                |                                                              |
-| 12   |                                                              |      |                                |                                                              |
+| 7    | [547. 省份数量](https://leetcode.cn/problems/number-of-provinces/) | 中等 | 并查集                         |                                                              |
+| 8    | [684. 冗余连接](https://leetcode.cn/problems/redundant-connection/) | 中等 | 并查集                         |                                                              |
+| 9    | [200. 岛屿数量](https://leetcode.cn/problems/number-of-islands/) | 中等 | 并查集                         |                                                              |
