@@ -10,5 +10,6 @@
 | 6    | [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | 中等 | 双指针扫描   |                                                              |
 | 7    | [15. 三数之和](https://leetcode.cn/problems/3sum/)           | 中等 | 双指针扫描   |                                                              |
 | 8    | [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | 中等 | 双指针扫描   |                                                              |
-| 9    |                                                              |      |              |                                                              |
+| 9    | [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) | 中等 | 双指针扫描   |                                                              |
+| 10   | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 双指针扫描   |                                                              |
 
