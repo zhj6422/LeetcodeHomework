@@ -11,5 +11,6 @@
 | 7    | [15. 三数之和](https://leetcode.cn/problems/3sum/)           | 中等 | 双指针扫描   |                                                              |
 | 8    | [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | 中等 | 双指针扫描   |                                                              |
 | 9    | [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) | 中等 | 双指针扫描   |                                                              |
-| 10   | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 双指针扫描   |                                                              |
+| 10   | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 双指针       |                                                              |
+| 11   | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | 中等 | 并查集       |                                                              |
 
