@@ -14,4 +14,14 @@
 | 10   | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 双指针       | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.java) |
 | 11   | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | 中等 | 并查集       | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.java) |
 | 12   | [8. 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/) | 中等 | 字符串处理   |                                                              |
+| 13   | [709. 转换成小写字母](https://leetcode.cn/problems/to-lower-case/) | 简单 | 字符串处理   |                                                              |
+| 14   | [58. 最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/) | 简单 | 字符串处理   |                                                              |
+| 15   | [771. 宝石与石头](https://leetcode.cn/problems/jewels-and-stones/) | 简单 | 字符串处理   |                                                              |
+| 16   | [387. 字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/) | 简单 | 字符串处理   |                                                              |
+| 17   | [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) | 简单 | 字符串处理   |                                                              |
+| 18   | [344. 反转字符串](https://leetcode.cn/problems/reverse-string/) | 简单 | 字符串处理   |                                                              |
+| 19   | [541. 反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/) | 简单 | 字符串处理   |                                                              |
+| 20   | [151. 颠倒字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | 中等 | 字符串处理   |                                                              |
+| 21   | [557. 反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/) | 简单 | 字符串处理   |                                                              |
+| 22   | [917. 仅仅反转字母](https://leetcode.cn/problems/reverse-only-letters/) | 简单 | 字符串处理   |                                                              |
 
