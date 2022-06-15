@@ -13,4 +13,5 @@
 | 9    | [16. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/) | 中等 | 双指针扫描   | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/16.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.java) |
 | 10   | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 双指针       | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.java) |
 | 11   | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | 中等 | 并查集       | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.java) |
+| 12   | [8. 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/) | 中等 | 字符串处理   |                                                              |
 
