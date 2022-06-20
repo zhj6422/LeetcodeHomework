@@ -24,7 +24,7 @@
 | 20   | [151. 颠倒字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | 中等 | 字符串处理                   | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/151.%20%E9%A2%A0%E5%80%92%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.java) |
 | 21   | [557. 反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/) | 简单 | 字符串处理                   | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.java) |
 | 22   | [917. 仅仅反转字母](https://leetcode.cn/problems/reverse-only-letters/) | 简单 | 字符串处理                   | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/917.%20%E4%BB%85%E4%BB%85%E5%8F%8D%E8%BD%AC%E5%AD%97%E6%AF%8D.java) |
-| 23   | [28. 实现 strStr()](https://leetcode.cn/problems/implement-strstr/) | 简单 | 字符串处理（Rabin-Karp算法） |                                                              |
-| 24   | [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/) | 简单 | 字符串处理（回文）           |                                                              |
-| 25   | [680. 验证回文字符串 Ⅱ](https://leetcode.cn/problems/valid-palindrome-ii/) | 简单 | 字符串处理（回文）           |                                                              |
+| 23   | [28. 实现 strStr()](https://leetcode.cn/problems/implement-strstr/) | 简单 | 字符串处理（Rabin-Karp算法） | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/28.%20%E5%AE%9E%E7%8E%B0%20strStr().java) |
+| 24   | [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/) | 简单 | 字符串处理（回文）           | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.java) |
+| 25   | [680. 验证回文字符串 Ⅱ](https://leetcode.cn/problems/valid-palindrome-ii/) | 简单 | 字符串处理（回文）           | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week09/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.java) |
 
