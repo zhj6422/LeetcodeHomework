@@ -11,8 +11,8 @@
 | 7    | [127. 单词接龙](https://leetcode.cn/problems/word-ladder/)   | 困难 | BFS（单向、双向） | [单向BFS](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%EF%BC%88%E5%8D%95%E5%90%91BFS%EF%BC%89.java)，[双向BFS](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%EF%BC%88%E5%8F%8C%E5%90%91BFS%EF%BC%89.java) |
 | 8    | [1091. 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/) | 中等 | BFS               |                                                              |
 | 9    | [773. 滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | 困难 | BFS、A*           |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
+| 10   | [307. 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/) | 中等 | 树状数组          |                                                              |
+| 11   | [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | 困难 | TreeMap           |                                                              |
 |      |                                                              |      |                   |                                                              |
 |      |                                                              |      |                   |                                                              |
 |      |                                                              |      |                   |                                                              |
