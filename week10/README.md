@@ -9,22 +9,8 @@
 | 5    | [36. 有效的数独](https://leetcode.cn/problems/valid-sudoku/) | 中等 | Set搜索           | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.java) |
 | 6    | [37. 解数独](https://leetcode.cn/problems/sudoku-solver/)    | 困难 | 剪枝              | [蛮力搜索+每步判断是否合法](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/37.%20%E8%A7%A3%E6%95%B0%E7%8B%AC%EF%BC%88%E8%9B%AE%E5%8A%9B%E6%90%9C%E7%B4%A2%2B%E6%AF%8F%E6%AD%A5%E5%88%A4%E6%96%AD%E5%89%AA%E6%9E%9D%EF%BC%89.java)，[找能填数量最少的空格](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/37.%20%E8%A7%A3%E6%95%B0%E7%8B%AC%EF%BC%88%E6%89%BE%E8%83%BD%E5%A1%AB%E6%95%B0%E9%87%8F%E6%9C%80%E5%B0%91%E7%9A%84%E7%A9%BA%E6%A0%BC%E5%85%88%E5%A1%AB%EF%BC%89.java) |
 | 7    | [127. 单词接龙](https://leetcode.cn/problems/word-ladder/)   | 困难 | BFS（单向、双向） | [单向BFS](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%EF%BC%88%E5%8D%95%E5%90%91BFS%EF%BC%89.java)，[双向BFS](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%EF%BC%88%E5%8F%8C%E5%90%91BFS%EF%BC%89.java) |
-| 8    | [1091. 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/) | 中等 | BFS               |                                                              |
-| 9    | [773. 滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | 困难 | BFS、A*           |                                                              |
-| 10   | [307. 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/) | 中等 | 树状数组          |                                                              |
-| 11   | [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | 困难 | TreeMap           |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
-|      |                                                              |      |                   |                                                              |
+| 8    | [1091. 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/) | 中等 | BFS               | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/1091.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84.java) |
+| 9    | [773. 滑动谜题](https://leetcode.cn/problems/sliding-puzzle/) | 困难 | BFS、A*           | [BFS](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/773.%20%E6%BB%91%E5%8A%A8%E8%B0%9C%E9%A2%98%EF%BC%88BFS%EF%BC%89.java)、[A*](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/773.%20%E6%BB%91%E5%8A%A8%E8%B0%9C%E9%A2%98%EF%BC%88A*%EF%BC%89.java) |
+| 10   | [307. 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/) | 中等 | 树状数组          | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/307.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E5%8F%AF%E4%BF%AE%E6%94%B9.java) |
+| 11   | [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | 困难 | TreeMap           | [code](https://github.com/zhj6422/LeetcodeHomework/blob/main/week10/239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.java) |
 
